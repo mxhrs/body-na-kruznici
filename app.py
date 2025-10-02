@@ -31,8 +31,8 @@ st.pyplot(fig)
 
 # Informace o autorovi
 st.sidebar.title("O autorovi")
-st.sidebar.write("Jméno: Jan Novák")   # <-- sem dej své jméno
-st.sidebar.write("Email: jan.novak@example.com")  # <-- sem dej svůj email
+st.sidebar.write("Jméno: Maxmilián Híreš")   # <-- sem dej své jméno
+st.sidebar.write("Email: 277835@vutbr.cz")  # <-- sem dej svůj email
 st.sidebar.write("Použité technologie: Python, Streamlit, Matplotlib, ReportLab")
 
 # Export do PDF
